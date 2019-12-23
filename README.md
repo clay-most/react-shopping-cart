@@ -49,7 +49,7 @@ Before you get started, please take a few minutes and get acquainted with this a
 
 - In `App.js` there is a function called `addItem`. Finish writing the logic in this function to be able to add the given item to the shopping cart
 
-**STEP 2 - Creating ProductContext**
+{x} **STEP 2 - Creating ProductContext**
 
 - In `src`, create a new folder named `contexts`, this folder is going to be used to hold all of `context objects` we create.
 
